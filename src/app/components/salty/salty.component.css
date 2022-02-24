@@ -1,0 +1,11 @@
+.principal{
+    background-image: url("../../../assets/fundo-salgado.jpg");
+}  
+.container h1, h3{
+    color: #000;
+    text-align: center;
+}
+
+h3{
+    margin-bottom: 30px;
+}
